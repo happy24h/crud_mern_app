@@ -1,0 +1,18 @@
+.menu-icon {
+    display: none;
+    position:absolute;
+    top: 40px
+   
+}
+.MuiIconButton-root:hover {
+    background-color: #ffffff !important;
+}
+.icon_more_vert {
+    position: relative;
+    
+}
+.icon_more_vert:hover .menu-icon {
+    display: block;
+    /* color: red; */
+
+}
